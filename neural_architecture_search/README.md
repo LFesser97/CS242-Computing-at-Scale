@@ -1,3 +1,7 @@
+# tcPINNs: Neural Architecture Search (NAS)
+
+------------------------
+
 Neural Architecture Search (NAS) is a method for automatically designing and optimizing the architecture of a neural network. It involves using a search algorithm to explore the space of possible network architectures and selecting the best one based on some performance criteria. This notebook implements a NAS class for MLP which is used in the tcPINNs project.
 
 Prerequisites/Dependencies: PyTorch, random, torch.autograd, torch.utils.data, torch.nn
@@ -16,5 +20,6 @@ best_model.train()
 
 ...
 
-Limitations: currently only applicable to MLP.But is scalable to more complex structures such as CNN,and RNN, etc
+Limitations: currently only applicable to MLP. But is scalable to more complex structures such as CNN,and RNN, etc
 
+-------------------------------------------
