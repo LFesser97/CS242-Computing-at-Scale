@@ -27,7 +27,7 @@ We demonstrate how to improve the accurcacy of tcPINNS by combining our approach
 
 Major Dependencies:
 
- - ***PyTorch (for PyTorch Implementation)***: ```pip install --upgrade torch``
+ - ***PyTorch (for PyTorch Implementation)***: ```pip install --upgrade torch```
  - ***Jupyter Notebook/Lab***: ```pip install jupyterlab``` (JupyterLab) or ```pip install notebook```
 
 Peripheral Dependencies:
